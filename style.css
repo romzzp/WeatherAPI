@@ -1,0 +1,16 @@
+input[type="text"]:focus {
+  background-color: rgb(241, 228, 36);
+  border: 3px solid rgb(187, 199, 14);
+  color: blue;
+}
+
+.navbar-brand {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(240, 208, 26);
+  text-align: center;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+}
